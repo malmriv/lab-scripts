@@ -1,0 +1,38 @@
+Begin Header
+Date,01/09/2004 13:33:00
+X-Label,Nanometers
+Y-Label,Arbitrary
+NumPoints,17
+StartValue,575
+EndValue,580
+Steps,0,3
+GaussFilter,0
+NoiseFilter,True
+AmplCorrection,True
+DarkCorrection,True
+AddCycles,1
+Iterations,1
+AutoExposure,False
+MaxCycleTime,10
+ExposureTime,200
+CoolerFilter,False
+CoolerTemp,291,5
+End Header
+nm,Value
+575.2,0.01086
+575.5,0.01806
+575.8,0.02526
+576.1,0.06131
+576.4,0.6535
+576.7,1.237
+577,1.108
+577.3,0.9798
+577.6,0.2986
+577.9,0.08577
+578.2,0.3204
+578.5,0.555
+578.8,1.157
+579.1,1.09
+579.4,1.023
+579.7,0.3477
+580,0.0868
